@@ -1,15 +1,23 @@
-Hello
-<!--
-**Hieracosphynx/Hieracosphynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi**,\
+I'm a Game Developer with 4 years of experience building browser-based casino and slot games using HTML5 and TypeScript. I also create internal tools that improve efficiency across the studio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+
+**Languages** — TypeScript, HTML5, CSS\
+**Focus** — Casino / slot game development, game development, developer tooling\
+**Framework** — Proprietary HTML5 game framework (built on PixiJS)\
+**Editor** — Neovim
+
+---
+
+**Currently**
+
+- Learning Godot for personal game projects
+- Exploring AI and its applications in game development
+
+---
+
+**Get in touch**
+hieracosphynx@pm.me
